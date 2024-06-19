@@ -1,0 +1,12 @@
+
+devices:
+  living_room:
+    microwave:
+      address: 192.168.1.XXX
+      device_id: 123
+    desk:
+      address: 192.168.1.XXX
+      device_id: 124
+
+api_key: api-key
+api_secret: api-secret
